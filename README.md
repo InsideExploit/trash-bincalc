@@ -1,11 +1,11 @@
-# BinaryCalculator
+# Binary Calculator
 
 **How To Compile:**
 
-1 - Install latest VCRedist.
-2 - Use Visual Studio to Compile it.
-3 - Use latest C++ sdk and language 17C++
-4 - Compile as Release and x64.
+- Install latest VCRedist.
+- Use Visual Studio to Compile it.
+- Use latest C++ sdk and language 17C++
+- Compile as Release and x64.
 
 **Features:**
 - Convert decimal code to binary code.
